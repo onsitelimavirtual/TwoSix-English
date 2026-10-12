@@ -1,0 +1,67 @@
+TWOSIX ENGLISH PRO 3.4
+Curso de inglês do básico ao avançado | Inglês instrumental e profissional
+Copyright © 2026 Nailson Rodrigues de Lima
+
+1. EXECUÇÃO
+Abra TwoSix_English_Pro_V3_4.html em um navegador moderno de computador ou celular.
+O arquivo é único: a interface, as aulas, os scripts e a logomarca já estão incorporados.
+Não é necessário instalar Python, Java, Node.js ou bibliotecas externas.
+A reprodução de áudio e o reconhecimento de fala, quando oferecidos pelo navegador,
+podem exigir conexão, permissões de microfone ou um contexto HTTPS.
+
+2. PRIMEIRO ACESSO E ACEITE
+Na abertura, será apresentado o contrato e a política de privacidade.
+Leia o documento, informe nome completo do adulto signatário, selecione a condição
+(aluno maior de idade ou responsável legal) e clique para aceitar eletronicamente.
+Um comprovante pode ser consultado, impresso ou exportado no menu Contrato e assinatura.
+Com a atualização do contrato para a versão 3.4, o aplicativo pedirá novo aceite,
+mesmo que uma versão anterior já tenha sido aceita.
+
+3. PRINCIPAIS MÓDULOS
+- 42 aulas distribuídas entre os níveis A1 e C2, com teoria e prática.
+- Tutor Virtus Pro pedagógico com reconhecimento de padrões de perguntas e erros.
+- Treino adaptativo local, flashcards, revisão e avaliação de desempenho.
+- Inglês técnico e profissional, laboratório de diálogos, tradução orientada.
+- Ferramentas de QA e painel de auditoria com encadeamento SHA-256.
+
+4. AUDITORIA
+O painel Auditoria e integridade permite conferir a sequência e o resumo dos eventos.
+É possível exportar o histórico para JSON/CSV e identificar alteração pontual
+nos eventos armazenados. A continuidade dos históricos da V3.3 foi preservada
+na V3.4 quando os dados estão acessíveis no mesmo armazenamento do navegador.
+Cuidado: o histórico é LOCAL. Não é imutável, não usa servidor, certificado digital,
+assinatura avançada/qualificada, autenticação forte ou carimbo de tempo confiável.
+Quem controla o dispositivo pode apagar ou substituir o histórico inteiro.
+O nome e a maioridade do signatário não são verificados independentemente.
+
+5. PROGRESSO E ATUALIZAÇÕES
+As informações ficam no armazenamento local do navegador e podem ser perdidas
+com a limpeza dos dados ou mudança de navegador, perfil ou origem (endereço de acesso).
+Para atualizar de uma versão anterior, exporte o progresso nas Configurações,
+abra a nova versão e importe o arquivo. Em alguns navegadores, arquivos locais
+separados não compartilham armazenamento, mesmo que estejam na mesma pasta.
+Exporte também os comprovantes e o histórico de auditoria antes de substituir o aplicativo.
+
+6. INSTRUÇÕES DE TESTE
+A bateria de QA automatizado reuniu 38 verificações aprovadas (33 verificações
+funcionais e visuais; 5 testes de migração de histórico e detecção de alteração).
+Foi executada no mecanismo Chromium com conteúdo carregado em página isolada e
+simulação de armazenamento local, por restrição do ambiente de testes.
+Isto NÃO equivale a homologação em todos os navegadores/dispositivos nem garante
+segurança jurídica, acessibilidade plena ou ausência de falhas não identificadas.
+
+7. LIMITAÇÕES DO TUTOR
+O tutor funciona com biblioteca local de conteúdo e regras pedagógicas.
+Não há API de modelo de linguagem, treinamento real de rede neural nem diálogo
+irrestrito garantido. As avaliações de nível A1–C2 são didáticas, não uma
+certificação oficial. É recomendável revisão humana de traduções críticas.
+
+8. COMERCIALIZAÇÃO
+Antes da oferta comercial, inclua identificação completa do fornecedor, contato,
+termos comerciais, prazo da licença e documentação de privacidade adequada.
+Faça análise jurídica e de proteção de dados pertinente à operação efetiva.
+
+IDENTIDADE VISUAL
+TwoSix_English_Logomarca.png: marca horizontal em PNG transparente.
+TwoSix_English_Icone.png: símbolo isolado para aplicativo.
+TwoSix_English_Logomarca_Original.png: arte original de referência.

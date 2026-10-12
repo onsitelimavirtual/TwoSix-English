@@ -1,0 +1,40 @@
+RELATÓRIO RESUMIDO DE QA — TWOSIX ENGLISH PRO V3.4
+Data de referência: 10/10/2026
+Escopo: identidade visual, acesso, contrato, acompanhamento e auditoria local.
+
+RESULTADO: 38 verificações aprovadas de 38 executadas.
+
+Grupo A: 33 verificações (320px, 390px, 1365px e controles):
+- Tela de aceite visível nas três larguras.
+- Logo do aceite incorporado e carregado.
+- Ausência de transbordamento horizontal nessas larguras.
+- Nenhum erro de execução JS nos roteiros de teste.
+- Bloqueio de assinatura sem nome completo.
+- Registro e persistência do aceite contratual v3.4.
+- Registro do evento CONSENT_ACCEPTED na trilha de auditoria.
+- Integridade da cadeia local após inclusão e exportação de eventos.
+- Exportação de histórico JSON.
+- Marca e contrato atualizados na tela e no comprovante HTML exportado.
+- SHA-256 do texto do contrato gerado e disponível.
+- Navegação do curso e do tutor.
+- Suíte interna pedagógica sem falhas no momento da execução.
+- Fechamento do menu móvel após a navegação.
+- Persistência do aceite e verificação da cadeia em nova página isolada.
+
+Grupo B: 5 verificações (migração e auditoria):
+- Histórico criado na V3.3 válido.
+- Nova versão exige aceite contratual renovado.
+- Histórico anterior verificável na V3.4.
+- Histórico expandido após novo aceite permanece consistente.
+- Alteração pontual em um evento provoca falha de integridade.
+
+MÉTODO E RESTRIÇÕES
+Scripts verificados também por Node.js --check.
+Automação com motor Chromium/Playwright; por restrição administrativa do
+ambiente, foi necessário injetar o conteúdo HTML na página de teste e usar uma
+simulação de localStorage. Portanto, esta bateria não substitui testes em arquivo
+local aberto no Chrome/Edge/Firefox, Android real ou implantação de produção.
+O controle criptográfico local detecta edições sem recomputação dos hashes,
+mas não prova autoria nem impede substituição ou exclusão integral da trilha.
+Não foi realizada auditoria externa de segurança, conformidade jurídica ou
+validação de proficiência de um estudante real.
